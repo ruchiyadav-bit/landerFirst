@@ -1196,7 +1196,7 @@ header.nav {
   position: relative;
   color: #fff;
   padding: 72px 0;
-  background: url('/assets/bgnear.webp') center/cover no-repeat;
+  background: url('assets/bgnear.webp') center/cover no-repeat;
   /* replace */
   isolation: isolate;
 }
